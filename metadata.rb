@@ -1,0 +1,7 @@
+name 'dmlb2000_httpd'
+maintainer 'The Authors'
+maintainer_email 'you@example.com'
+license 'all_rights'
+description 'Installs/Configures dmlb2000_httpd'
+long_description 'Installs/Configures dmlb2000_httpd'
+version '0.1.0'
